@@ -2,6 +2,7 @@ package com.example.lenovo.gittest;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
@@ -14,6 +15,7 @@ public class MainActivity extends Activity {
         TextView text2=new TextView(this);
 
         TextView text3=new TextView(this);
+        Button btn=new Button(this);
 
 
     }
