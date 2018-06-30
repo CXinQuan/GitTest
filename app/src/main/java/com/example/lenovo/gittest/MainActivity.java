@@ -13,6 +13,8 @@ public class MainActivity extends Activity {
 
         TextView text2=new TextView(this);
 
+        TextView text3=new TextView(this);
+
 
     }
 }
