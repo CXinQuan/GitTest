@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         TextView text=new TextView(this);
 
+        TextView text2=new TextView(this);
 
 
     }
